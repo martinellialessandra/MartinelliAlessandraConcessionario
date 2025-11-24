@@ -123,6 +123,8 @@ public class Macchina {
         return Objects.equals(this.targa, other.targa);
     }
     
+    public void compra{
     
+}
     
 }
